@@ -5,7 +5,7 @@ const Form = props => (
         <input className="form__input" type="text" name="recipeName"/>
 
         <button className="form__button">
-            Search
+            Buscar 
         </button>
     </form>
 );
